@@ -1,5 +1,0 @@
----
-title: "Modelos de Ocupación Norte de Santander"
-site: distill::distill_website
-listing: posts
----
